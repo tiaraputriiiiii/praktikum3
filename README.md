@@ -173,8 +173,7 @@ buat file baru "praktikum3"
 	phi=3.14
 	diameter=2*r
 
-	luas=phi*r*r
-	keliling=phi*2*r
+	![2022-10-31 (22)](https://user-images.githubusercontent.com/115775237/198943491-f2641a96-3d10-4237-9321-f75760b1ae84.png)
 	print('\nluasnya =', str("%.2f" % luas))
 	print('kelilingnya =', str("%.2f" % keliling))
 
@@ -184,3 +183,4 @@ buat file baru "praktikum3"
 ![2022-10-31 (21)](https://user-images.githubusercontent.com/115775237/198937108-6674b88a-4277-4f76-8802-52dbf5a07503.png)
 
 # Flowchart Menghitung luas dan keliling lingkaran
+![2022-10-31 (22)](https://user-images.githubusercontent.com/115775237/198943644-810feca2-5e08-4e8b-99d9-c119938bead2.png)
