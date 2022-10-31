@@ -77,6 +77,7 @@ anda masukan code dari latihan1 anda lalu Run
 ![2022-10-31 (11)](https://user-images.githubusercontent.com/115775237/198934948-5ad82e04-afc7-4470-8a03-4f2d885a9305.png)
 
 lalu hasil run nya
+
 ![2022-10-31 (13)](https://user-images.githubusercontent.com/115775237/198935226-cad7e53c-cd33-4516-878c-8c2be9dce648.png)
 
 # Latihan 2 
@@ -99,10 +100,12 @@ lalu masukkan code program
 ![2022-10-31 (14)](https://user-images.githubusercontent.com/115775237/198935539-aa9e1779-1e2a-49c7-aafe-a2a9df4a4fa3.png)
 
 lalu hasil run nya menjadi
+
 ![2022-10-31 (15)](https://user-images.githubusercontent.com/115775237/198935716-5385feda-0640-41f4-9d2f-81cca1875b91.png)
 
 # Latihan 3
 buat file baru "latihan3"
+
 ![2022-10-31 (16)](https://user-images.githubusercontent.com/115775237/198935852-a75da9bf-dfb4-495d-a952-10d7fe51b41d.png)
 
 masukkan code programnya
@@ -160,6 +163,7 @@ masukkan code programnya
 ![2022-10-31 (18)](https://user-images.githubusercontent.com/115775237/198936210-438e0ecf-327f-45b0-a7c6-8be9c9d609a7.png)
 
 *Hasil Run*
+
 ![2022-10-31 (19)](https://user-images.githubusercontent.com/115775237/198936591-1d85e5e0-bfab-4b30-abfd-ab3a8cffd542.png)
 
 # Menghitung Luas Dan Keliling Lingkaran
@@ -180,7 +184,9 @@ buat file baru "praktikum3"
 ![2022-10-31 (20)](https://user-images.githubusercontent.com/115775237/198937031-381eab4c-c619-48e3-b6b1-2b26d58ea5d9.png)
 
 *Hasil Run*
+
 ![2022-10-31 (21)](https://user-images.githubusercontent.com/115775237/198937108-6674b88a-4277-4f76-8802-52dbf5a07503.png)
 
 # Flowchart Menghitung luas dan keliling lingkaran
+
 ![2022-10-31 (22)](https://user-images.githubusercontent.com/115775237/198943644-810feca2-5e08-4e8b-99d9-c119938bead2.png)
