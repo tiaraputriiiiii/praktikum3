@@ -163,8 +163,7 @@ masukkan code programnya
 ![2022-10-31 (19)](https://user-images.githubusercontent.com/115775237/198936591-1d85e5e0-bfab-4b30-abfd-ab3a8cffd542.png)
 
 # Menghitung Luas Dan Keliling Lingkaran
-1. Masukan code di bawah ini lalu run
-```python
+buat file baru "praktikum3"
 
 	print('menghitung luas dan keliling lingkarang')
 	print('________________________________________')
@@ -178,7 +177,6 @@ masukkan code programnya
 	keliling=phi*2*r
 	print('\nluasnya =', str("%.2f" % luas))
 	print('kelilingnya =', str("%.2f" % keliling))
-
 
 ![2022-10-31 (20)](https://user-images.githubusercontent.com/115775237/198937031-381eab4c-c619-48e3-b6b1-2b26d58ea5d9.png)
 
