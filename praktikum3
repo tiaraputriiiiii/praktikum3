@@ -1,0 +1,12 @@
+print('menghitung luas dan keliling lingkarang')
+	print('________________________________________')
+
+	r=float(input('masukkan nilai jari - jari :'))
+
+	phi=3.14
+	diameter=2*r
+
+	luas=phi*r*r
+	keliling=phi*2*r
+	print('\nluasnya =', str("%.2f" % luas))
+	print('kelilingnya =', str("%.2f" % keliling))
