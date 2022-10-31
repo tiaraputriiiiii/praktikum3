@@ -179,6 +179,7 @@ masukkan code programnya
 	print('\nluasnya =', str("%.2f" % luas))
 	print('kelilingnya =', str("%.2f" % keliling))
 
+
 ![2022-10-31 (20)](https://user-images.githubusercontent.com/115775237/198937031-381eab4c-c619-48e3-b6b1-2b26d58ea5d9.png)
 
 *Hasil Run*
