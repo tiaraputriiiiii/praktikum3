@@ -1,12 +1,3 @@
-### DAFTAR ISI <br>
-| No | Description | Link |
-| ----- | ----- | ---- |
-| 1 | Cara Installasi Pycharm| [Click Here](#Cara-Installasi-Pycharm)|
-| 2 | Latihan 1 | [Click Here](#Latihan-1) |
-| 3 | Latihan 2 | [Click Here](#Latihan-2) |
-| 4 | Latihan 3 | [Click Here](#Latihan-3) |
-| 5 | Menghitung Luas Dan Keliling Lingkaran | [Click Here](#Menghitung-Luas-Dan-Keliling-Lingkaran) |
-| 6 | Flowchart Menghitung luas dan keliling lingkaran | [Click Here](#Flowchart-Menghitung-luas-dan-keliling-lingkaran) |
 
 # Cara Installasi Pycharm
 Anda harus install Pycharm di https://www.jetbrains.com/pycharm/download/#section=windows  , Dan anda pilih yang Community
@@ -38,48 +29,49 @@ Selanjutnya anda membuat file Python baru di project anda tadi dan anda kasih na
 
 anda masukan code dari latihan1 anda lalu Run
 
-# penggunaan end
-print('A', end='')
-print('B', end='')
-print('C', end='')
-print()
-print('X')
-print('Y')
-print('Z')
+	# penggunaan end
 
-# penggunaan separator
-w, x, y, z = 10, 15, 20, 25
-print(w, x, y, z)
-print(w, x, y, z, sep=',')
-print(w, x, y, z, sep='')
-print(w, x, y, z, sep=':')
-print(w, x, y, z, sep='-----')
+	print('A', end='')
+	print('B', end='')
+	print('C', end='')
+	print()
+	print('X')
+	print('Y')
+	print('Z')
 
-# string format
-print(0, 10 ** 0)
-print(1, 10 ** 1)
-print(2, 10 ** 2)
-print(3, 10 ** 3)
-print(4, 10 ** 4)
-print(5, 10 ** 5)
-print(6, 10 ** 6)
-print(7, 10 ** 7)
-print(8, 10 ** 8)
-print(9, 10 ** 9)
-print(10, 10 ** 10)
+	# penggunaan separator
+	w, x, y, z = 10, 15, 20, 25
+	print(w, x, y, z)
+	print(w, x, y, z, sep=',')
+	print(w, x, y, z, sep='')
+	print(w, x, y, z, sep=':')
+	print(w, x, y, z, sep='-----')
 
-# string format
-print('{0:>3} {1:>16}'.format(0, 10 ** 0))
-print('{0:>3} {1:>16}'.format(1, 10 ** 1))
-print('{0:>3} {1:>16}'.format(2, 10 ** 2))
-print('{0:>3} {1:>16}'.format(3, 10 ** 3))
-print('{0:>3} {1:>16}'.format(4, 10 ** 4))
-print('{0:>3} {1:>16}'.format(5, 10 ** 5))
-print('{0:>3} {1:>16}'.format(6, 10 ** 6))
-print('{0:>3} {1:>16}'.format(7, 10 ** 7))
-print('{0:>3} {1:>16}'.format(8, 10 ** 8))
-print('{0:>3} {1:>16}'.format(9, 10 ** 9))
-print('{0:>3} {1:>16}'.format(10, 10 ** 10))
+	# string format
+	print(0, 10 ** 0)
+	print(1, 10 ** 1)
+	print(2, 10 ** 2)
+	print(3, 10 ** 3)
+	print(4, 10 ** 4)
+	print(5, 10 ** 5)
+	print(6, 10 ** 6)
+	print(7, 10 ** 7)
+	print(8, 10 ** 8)
+	print(9, 10 ** 9)
+	print(10, 10 ** 10)
+
+	# string format
+	print('{0:>3} {1:>16}'.format(0, 10 ** 0))
+	print('{0:>3} {1:>16}'.format(1, 10 ** 1))
+	print('{0:>3} {1:>16}'.format(2, 10 ** 2))
+	print('{0:>3} {1:>16}'.format(3, 10 ** 3))
+	print('{0:>3} {1:>16}'.format(4, 10 ** 4))
+	print('{0:>3} {1:>16}'.format(5, 10 ** 5))
+	print('{0:>3} {1:>16}'.format(6, 10 ** 6))
+	print('{0:>3} {1:>16}'.format(7, 10 ** 7))
+	print('{0:>3} {1:>16}'.format(8, 10 ** 8))
+	print('{0:>3} {1:>16}'.format(9, 10 ** 9))
+	print('{0:>3} {1:>16}'.format(10, 10 ** 10))
 
 ![2022-10-31 (10)](https://user-images.githubusercontent.com/115775237/198934894-9eadb8fb-bf4b-47cd-bfac-a1027f06ac3c.png)
 ![2022-10-31 (11)](https://user-images.githubusercontent.com/115775237/198934948-5ad82e04-afc7-4470-8a03-4f2d885a9305.png)
@@ -88,19 +80,21 @@ lalu hasil run nya
 ![2022-10-31 (13)](https://user-images.githubusercontent.com/115775237/198935226-cad7e53c-cd33-4516-878c-8c2be9dce648.png)
 
 # Latihan 2 
-Anda masukan code latihan 2 anda lalu Run 
+buat latihan baru "latihan2"
 
-a=input("masukkan nilai a:")
-b=input("masukkan nilai b:")
-print("variabel a=",a)
-print("variabel b=",b)
-print("hasil penggabungan {1}&{0}=%s".format(a,b) %(a+b))
+lalu masukkan code program
 
-#konversi nilai variabel
-a=int(a)
-b=int(b)
-print("hasil penjumlahan {1}+{0}=%s".format(a,b) %(a+b))
-print("hasil penjumlahan {1}/{0}=%s".format(a,b) %(a/b))
+	a=input("masukkan nilai a:")
+	b=input("masukkan nilai b:")
+	print("variabel a=",a)
+	print("variabel b=",b)
+	print("hasil penggabungan {1}&{0}=%s".format(a,b) %(a+b))
+
+	#konversi nilai variabel
+	a=int(a)
+	b=int(b)
+	print("hasil penjumlahan {1}+{0}=%s".format(a,b) %(a+b))
+	print("hasil penjumlahan {1}/{0}=%s".format(a,b) %(a/b))
 
 ![2022-10-31 (14)](https://user-images.githubusercontent.com/115775237/198935539-aa9e1779-1e2a-49c7-aafe-a2a9df4a4fa3.png)
 
@@ -113,12 +107,12 @@ buat file baru "latihan3"
 
 masukkan code programnya
 
-string = ""
+	string = ""
 
-x = int(input("Masukkan angka :"))
-bar = x
-# Looping Baris
-while bar >= 0:
+	x = int(input("Masukkan angka :"))
+	bar = x
+	# Looping Baris
+	while bar >= 0:
 	# Looping Kolom Spasi Kosong
 	kol = bar
 	while kol > 0:
@@ -138,9 +132,9 @@ while bar >= 0:
 	string = string + "\n\n"
 	bar = bar - 1
 
-bar = 1
-# Looping Baris
-while bar <= x:
+	bar = 1
+	# Looping Baris
+	while bar <= x:
 	kol = bar+1
 	# Looping Kolom Spasi Kosong
 	while kol > 1:
@@ -159,7 +153,7 @@ while bar <= x:
 
 	string = string + "\n\n"
 	bar = bar + 1
-print (string)
+	print (string)
 
 ![2022-10-31 (17)](https://user-images.githubusercontent.com/115775237/198936187-68ac9e99-41a0-47f4-b13c-73aeab015353.png)
 
@@ -172,18 +166,18 @@ print (string)
 1. Masukan code di bawah ini lalu run
 ```python
 
-print('menghitung luas dan keliling lingkarang')
-print('________________________________________')
+	print('menghitung luas dan keliling lingkarang')
+	print('________________________________________')
 
-r=float(input('masukkan nilai jari - jari :'))
+	r=float(input('masukkan nilai jari - jari :'))
 
-phi=3.14
-diameter=2*r
+	phi=3.14
+	diameter=2*r
 
-luas=phi*r*r
-keliling=phi*2*r
-print('\nluasnya =', str("%.2f" % luas))
-print('kelilingnya =', str("%.2f" % keliling))
+	luas=phi*r*r
+	keliling=phi*2*r
+	print('\nluasnya =', str("%.2f" % luas))
+	print('kelilingnya =', str("%.2f" % keliling))
 
 ![2022-10-31 (20)](https://user-images.githubusercontent.com/115775237/198937031-381eab4c-c619-48e3-b6b1-2b26d58ea5d9.png)
 
