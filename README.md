@@ -27,7 +27,7 @@ Selanjutnya anda membuat file Python baru di project anda tadi dan anda kasih na
 
 ![2022-10-31 (8)](https://user-images.githubusercontent.com/115775237/198934387-0fe36386-208d-4ef2-a31d-075c791a91f7.png)
 
-anda masukan code dari latihan1 anda lalu Run
+masukan code dari latihan1 anda lalu Run
 
 	# penggunaan end
 
