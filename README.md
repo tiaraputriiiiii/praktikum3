@@ -177,7 +177,6 @@ buat file baru "praktikum3"
 	phi=3.14
 	diameter=2*r
 
-	![2022-10-31 (22)](https://user-images.githubusercontent.com/115775237/198943491-f2641a96-3d10-4237-9321-f75760b1ae84.png)
 	print('\nluasnya =', str("%.2f" % luas))
 	print('kelilingnya =', str("%.2f" % keliling))
 
