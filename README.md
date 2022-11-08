@@ -1,3 +1,6 @@
+Nama    : Tiara Putri
+NIM     : 312210064
+Kelas   : TI.22.A1
 
 # Cara Installasi Pycharm
 Anda harus install Pycharm di https://www.jetbrains.com/pycharm/download/#section=windows  , Dan anda pilih yang Community
